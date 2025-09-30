@@ -4,7 +4,7 @@ Um aplicativo web de biblioteca virtual desenvolvido em React (JavaScript) utili
 
 ## Integrantes
 
-- Renan Antonialli ([RenanAntonialli](https://github.com/RenanAntonialli))
+- Renan Antonialli
 - Natália Aparecida Fonseca
 - Yulla Avelar Assis Mendonça
 
