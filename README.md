@@ -19,7 +19,7 @@ Um aplicativo web de biblioteca virtual desenvolvido em React (JavaScript) utili
 
 ## Demonstração
 
-*Adicione aqui o link para sua demo online (Vercel, Netlify, Codesandbox etc), se disponível.*
+- [CodeSandbox](https://codesandbox.io/p/sandbox/y9my8c)
 
 ## Como executar localmente
 
