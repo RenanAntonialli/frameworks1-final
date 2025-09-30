@@ -13,7 +13,8 @@ Você pode explorar obras por categorias, buscar qualquer livro e visualizar inf
 
 ## Demonstração
 
-*Adicione aqui o link para sua demo online (Vercel, Netlify, Codesandbox etc), se disponível.*
+CODESANDBOX: https://codesandbox.io/p/sandbox/y9my8c
+VERCEL: 
 
 ## Como executar localmente
 
