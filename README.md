@@ -4,6 +4,10 @@ Um aplicativo web de biblioteca virtual desenvolvido em React (JavaScript) que p
 
 Você pode explorar obras por categorias, buscar qualquer livro e visualizar informações detalhadas de cada item.
 
+## Integrantes
+
+Natália Aparecida Fonseca, Renan Antonialli, Yulla Avelar Assis Mendonça
+
 ## Funcionalidades
 
 - Navegação por categorias (Ficção, Não Ficção, Ciência)
