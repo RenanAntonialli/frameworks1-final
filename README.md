@@ -20,6 +20,7 @@ Um aplicativo web de biblioteca virtual desenvolvido em React (JavaScript) utili
 ## Demonstração
 
 - [CodeSandbox](https://codesandbox.io/p/sandbox/y9my8c)
+- [Vercel](https://frameworks1-final-git-main-renans-projects-2cf7e8fa.vercel.app)
 
 ## Como executar localmente
 
